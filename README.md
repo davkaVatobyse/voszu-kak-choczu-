@@ -19,4 +19,4 @@ Ilya Rozum , zaocznyu fakultet , 3 kurs , ISiT.
   ░░░░░░░░ ▌▌░▌▌░░░░░ 
   ░░░░░░░░░▌▌░▌▌░░░░░ 
   ░░░░░░░▄▄▌▌▄▌▌░░░░░
-    </pre>
+  </pre>
