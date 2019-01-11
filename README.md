@@ -1,7 +1,9 @@
 # voszu-kak-choczu-
 
 Ilya Rozum , zaocznyu fakultet , 3 kurs , ISiT. 
-    
+ 
+ 
+ <pre>
   ЗАПУСКАЮ░░ 
   ░ГУСЯ░▄▀▀▀▄░ГИДРУ░░ 
   ▄███▀░◐░▄▀▀▀▄░░░░░░ 
@@ -17,3 +19,4 @@ Ilya Rozum , zaocznyu fakultet , 3 kurs , ISiT.
   ░░░░░░░░ ▌▌░▌▌░░░░░ 
   ░░░░░░░░░▌▌░▌▌░░░░░ 
   ░░░░░░░▄▄▌▌▄▌▌░░░░░
+    </pre>
